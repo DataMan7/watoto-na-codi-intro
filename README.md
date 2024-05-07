@@ -1,6 +1,6 @@
-## Happy Birthday!!!
+## Welcome to watotonacodi.com
 
-### Wish someone special happy birthday in a special way.
+### A fun and interactive coding experience for children, and teens.
 
 #### [See it Live](https://DataMan7.github.io/watoto-na-codi-intro/)
 
