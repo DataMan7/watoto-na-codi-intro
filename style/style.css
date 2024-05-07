@@ -299,14 +299,3 @@ body {
     font-weight: lighter;
   }
 }
-@media screen and (max-width: 768px) {
-  body {
-    padding: 20px;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  body {
-    font-size: 14px; /* Even smaller font size for screens less than 480px wide (typical smartphones) */
-  }
-}
