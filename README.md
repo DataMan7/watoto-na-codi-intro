@@ -2,7 +2,7 @@
 
 ### A fun and interactive coding experience for children, and teens.
 
-#### [See it Live](https://DataMan7.github.io/watoto-na-codi-intro/)
+#### [See it Live](https://dataman7.github.io/watoto-na-codi-intro/)
 
 #### Update: Now you can customize all the texts without modifying the code!
 
