@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  width: 100%;
 }
 
 body {
@@ -300,12 +301,12 @@ body {
 }
 @media screen and (max-width: 768px) {
   body {
-    font-size: 14px; /* Smaller font size for screens less than 768px wide (typical tablets) */
+    padding: 20px;
   }
 }
 
 @media screen and (max-width: 480px) {
   body {
-    font-size: 12px; /* Even smaller font size for screens less than 480px wide (typical smartphones) */
+    font-size: 14px; /* Even smaller font size for screens less than 480px wide (typical smartphones) */
   }
 }
